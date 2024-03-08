@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome to My GitHub! 👋
 
-<!--
-**PixyJune/PixyJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
+I'm **Hurejannat Nesha**, a fresh CSE graduate with a zest for front-end web development. I'm currently mastering HTML, CSS, and JavaScript to create engaging web experiences.
 
-Here are some ideas to get you started:
+#### My Work
+🔭 I've launched my professional path with a beloved project—an analog clock crafted with the core web technologies I'm learning. It's a small step in my journey to build meaningful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Learning & Growth
+🌱 I'm a lifelong learner, constantly evolving my skills in front-end development. I'm dedicated to coding beautiful, functional, and inclusive web applications.
+
+#### Collaboration
+💼 I thrive on collaboration and seek opportunities that challenge me. I'm excited to explore the tech world and push creative limits.
+
+#### Connect With Me
+📫 Feel free to reach out via email at hurejannat8888@gmail.com or connect here on GitHub.
+
+Let's code a better world together! 🚀
+
