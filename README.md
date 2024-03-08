@@ -14,6 +14,7 @@ I'm **Hurejannat Nesha**, a fresh CSE graduate with a zest for front-end web dev
 
 #### Connect With Me
 📫 Feel free to reach out via email at hurejannat8888@gmail.com or connect here on GitHub.
+or, you can reach me of Facebook here -> [Jannat Mehjabin](https://www.facebook.com/jannat.mehjabin.754)
 
 Let's code a better world together! 🚀
 
