@@ -1,20 +1,25 @@
-### Welcome to My GitHub! 👋
+### Assalamu alaikum! 👋
 
-#### About Me
-I'm **Hurejannat Nesha**, a fresh CSE graduate with a zest for front-end web development. I'm currently mastering HTML, CSS, and JavaScript to create engaging web experiences.
+#### I'm Hurejannat Nesha
+- 🎓 **CSE Graduate** with a passion for **Front-End Development**
+- 🌐 Currently weaving the web with `HTML`, `CSS`, and `JavaScript`
 
-#### My Work
-🔭 I've launched my professional path with a beloved project—an analog clock crafted with the core web technologies I'm learning. It's a small step in my journey to build meaningful digital experiences.
+#### My Projects
+- 🔭 Crafted an analog clock with the tech I'm learning. Check it out here!
 
-#### Learning & Growth
-🌱 I'm a lifelong learner, constantly evolving my skills in front-end development. I'm dedicated to coding beautiful, functional, and inclusive web applications.
+#### Always Learning
+- 🌱 I'm on a lifelong journey to master coding and create accessible web apps.
 
-#### Collaboration
-💼 I thrive on collaboration and seek opportunities that challenge me. I'm excited to explore the tech world and push creative limits.
+#### Let's Collaborate
+- 💼 Open to innovative projects that challenge the norm.
 
-#### Connect With Me
-📫 Feel free to reach out via email at hurejannat8888@gmail.com or connect here on GitHub.
-or, you can reach me of Facebook here -> [Jannat Mehjabin](https://www.facebook.com/jannat.mehjabin.754)
+#### Get in Touch
+- 📫 Reach me at: hurejannat8888@gmail.com
+- 🤝 Connect with me on GitHub for a better coding world!
 
-: Let's code a better world together! 🚀
-
+<details>
+  <summary>More About Me</summary>
+  
+  I'm a recent graduate who's eager to dive into real-world projects and make a positive impact in the tech community. I believe in continuous learning and am always looking for opportunities to grow and collaborate with fellow developers.
+  
+</details>
